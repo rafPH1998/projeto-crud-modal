@@ -5,8 +5,8 @@ Tecnologias utilizadas no projeto:
 - HTML, CSS e BOOTSTRAP para construir a interface do projeto.
 - Javascript para validação dos dados no formulário na hora de inserir um dado.
 - Jquery para fazer todas as requisições e fazer o processo de abrir o modal.
-- MYSQL como banco de dados para armazenar informações.
-- PHP(com orientação a objetos) para fazer a inserção, atualização e delete de todos os dados ao Banco de dados.
+- MYSQL puro como banco de dados para armazenar informações.
+- PHP puro (com orientação a objetos) para fazer a inserção, atualização e delete de todos os dados ao Banco de dados.
 
 
 Crud with modal when inserting, editing and deleting a user. You can also search for a user and see results in real time without having to refresh the page.
